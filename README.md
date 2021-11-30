@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @deev0
+- 👀 I’m interested in learning the basics of code, and startin my own projects
+- 🌱 I’m currently learning java, and python
